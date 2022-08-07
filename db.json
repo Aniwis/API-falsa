@@ -1,0 +1,33 @@
+{
+  "leaders": 
+  {
+    "scores": 
+      [
+        {
+          "userId": 1,
+          "value": 5,
+          "name":"Yeremi"
+        },
+        {
+          "userId":2,
+          "value": 2,
+          "name":"Yeison"
+        },
+        {
+          "userId":3,
+          "value": 4,
+          "name":"Aquiles"
+        },
+        {
+          "userId":4,
+          "value": 14,
+          "name":"Bailon"
+        },
+        {
+          "userId":5,
+          "value": 10,
+          "name":"Ecthor"
+        }
+      ] 
+  }, 
+  }
